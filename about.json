@@ -1,1 +1,9 @@
-
+{
+  "social_links": {
+    "instagram": "https://instagram.com/yourusername",
+    "telegram": "https://t.me/yourusername",
+    "whatsapp": "https://wa.me/yourphonenumber",
+    "tiktok": "https://www.tiktok.com/@yourusername",
+    "github": "https://github.com/yourusername"
+  }
+}
